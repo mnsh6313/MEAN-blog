@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "learning mean stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnsh6313/MEAN-blog.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnsh6313/MEAN-blog/issues"
+  },
+  "homepage": "https://github.com/mnsh6313/MEAN-blog#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
